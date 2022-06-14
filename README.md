@@ -14,4 +14,4 @@ cd Elementary-OS-Bash-Theme/
 ```bash
 chmod u+x theme.sh && ./theme.sh
 ```
-Enter the theme color number you want, and your terminal will be dressed up.
+Enter the theme number you want, and your terminal will be dressed up.
