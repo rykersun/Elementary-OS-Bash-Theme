@@ -188,7 +188,7 @@ case $NUM in
         gsettings set io.elementary.terminal.settings cursor-color "#f83e19"
         gsettings set io.elementary.terminal.settings foreground "#b9bcba";;
      28) echo 'Theme : Dracula'
-        gsettings set io.elementary.terminal.settings palette "#000000:#ff5555:#50fa7b:#f1fa8c:#bd93f9:#ff79c6:#8be9fd:#bbbbbb:#FFA500:#ff5555:#50fa7b:#f1fa8c:#bd93f9:#ff79c6:#8be9fd:#ffffff"
+        gsettings set io.elementary.terminal.settings palette "#000000:#ff5555:#50fa7b:#f1fa8c:#bd93f9:#ff79c6:#8be9fd:#bbbbbb:#D3D3D3:#ff5555:#50fa7b:#f1fa8c:#bd93f9:#ff79c6:#8be9fd:#ffffff"
         gsettings set io.elementary.terminal.settings background "#1e1f29"
         gsettings set io.elementary.terminal.settings cursor-color "#bbbbbb"
         gsettings set io.elementary.terminal.settings foreground "#f8f8f2";;
